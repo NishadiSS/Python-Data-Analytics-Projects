@@ -28,13 +28,5 @@ The Weather Dataset is a time series data set with per-hour information about th
 * What is the Variance of 'Relative Humidity' in this data ?
 * Find all instances when 'Snow' was recorded.
 * Find all instances when 'Wind Speed is above 24' and 'Visibility is 25'.
-* What is the Mean value of each column against each 'Weather Condition ?
-* What is the Minimum & Maximum value of each column against each 'Weather Condition ?
 * Show all the Records where Weather Condition is Fog.
 * Find all instances when 'Weather is Clear' or 'Visibility is above 40'.
-* Find all instances when :
-    * A. 'Weather is Clear' and 'Relative Humidity is greater than 50'
-
-       or
-
-    * 'Visibility is above 40'
